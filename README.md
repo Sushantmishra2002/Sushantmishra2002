@@ -166,7 +166,7 @@ console.log(sushant.getCurrentStatus());
 <td width="33%" align="center">
 
 ### 🎨 **Data Analysis**
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=000000" />
+<img src="https://img.shields.io/badge/powerbi-F24E1E?style=for-the-badge&logo=powerbi&logoColor=000000" />
 <br/>
 *Creating beautiful, user-centric designs*
 
