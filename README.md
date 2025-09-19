@@ -1,63 +1,85 @@
-# 🚀 Sushant Mishra
-
 <div align="center">
-  
-  <!-- Animated Header with Gradient Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+MERN+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%E2%9A%A1;Let's+Create+Something+Amazing+Together+%F0%9F%92%AB" alt="Animated Header" />
-  
-  <!-- Animated Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Code%20%7C%20Create%20%7C%20Innovate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
+<!-- Animated Matrix Background Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=SUSHANT%20MISHRA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=51&descAlign=50" />
+
+</div>
+
+<!-- Animated Typing Text -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe;%E2%9A%A1+Building+Tomorrow's+Tech+Today;%F0%9F%8C%9F+MERN+Stack+%7C+Cloud+%7C+Innovation" />
 </div>
 
 ---
 
-## 🎭 **Digital Identity Matrix**
-
 <div align="center">
-  
-  <!-- Animated Profile Stats Cards -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantmishra2002&bg_color=0D1117&color=A855F7&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=⚡%20Contribution%20Energy%20Waves" width="100%" />
-  
+
+<!-- Animated Neon Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sushantmishra2002&style=for-the-badge&color=blueviolet&label=VISITORS&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/Sushantmishra2002?style=for-the-badge&color=ff6b6b&labelColor=000000&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Sushantmishra2002?style=for-the-badge&color=4ecdc4&labelColor=000000&label=STARS)
+
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- Animated Snake Eating Contributions -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
-### 🌟 **About My Digital Journey**
-```typescript
-const sushant = {
-  name: "Sushant Mishra",
-  role: "Full Stack Architect",
-  code: ["JavaScript", "Python", "Java", "C++"],
-  askMeAbout: ["Web Dev", "MERN", "Cloud", "Innovation"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Redux"],
-      css: ["Bootstrap", "Tailwind", "Styled Components"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      databases: ["MongoDB", "MySQL"],
-      cloud: ["AWS"]
-    },
-    devOps: ["Docker", "AWS", "CI/CD"],
-    tools: ["Git", "VS Code", "Figma"]
-  },
-  currentFocus: "Building scalable web applications",
-  futureGoals: "Contributing to Open Source & AI/ML"
-};
+---
+
+## 🔥 **WHO AM I?** 
+
+<table>
+<tr>
+<td width="55%">
+
+```javascript
+class DigitalArchitect {
+  constructor() {
+    this.name = "Sushant Mishra";
+    this.role = "Full Stack Developer";
+    this.location = "India 🇮🇳";
+    this.passion = ["Code", "Innovation", "Problem Solving"];
+  }
+  
+  getCurrentStatus() {
+    return {
+      🎯: "Building scalable web applications",
+      🌱: "Learning MERN Stack & Cloud Technologies",
+      👯: "Open to collaborate on exciting projects",
+      💬: "Ask me about JavaScript, React, Node.js",
+      ⚡: "Fun fact: I debug with console.log() 😅"
+    };
+  }
+  
+  getTechStack() {
+    return {
+      frontend: ["React", "Next.js", "HTML5", "CSS3", "JavaScript"],
+      backend: ["Node.js", "Express.js", "Python", "Java"],
+      database: ["MongoDB", "MySQL"],
+      cloud: ["AWS", "Docker"],
+      tools: ["Git", "VS Code", "Figma", "Postman"]
+    };
+  }
+}
+
+const sushant = new DigitalArchitect();
+console.log(sushant.getCurrentStatus());
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%">
 
-### ⚡ **Real-time Activity Dashboard**
+<div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sushantmishra2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=FFFFFF&ring_color=A855F7" width="100%" />
+### ⚡ **LIVE STATS DASHBOARD**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushantmishra2002&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=00D9FF&fire=FF6B6B&currStreakLabel=A855F7" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sushantmishra2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushantmishra2002&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFEAA7&currStreakLabel=FF6B6B" width="100%" />
+
+</div>
 
 </td>
 </tr>
@@ -65,147 +87,177 @@ const sushant = {
 
 ---
 
-## 🎯 **Skills Constellation**
+## 🚀 **TECH ARSENAL**
 
 <div align="center">
-  
-  <!-- Animated Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,mysql,python,java,cpp,html,css,bootstrap,tailwind,aws,docker,git,vscode,figma,wordpress&perline=10&theme=dark" />
-  
-  <!-- Language Distribution -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sushantmishra2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=12" width="45%" />
-  
+
+### **Frontend Universe**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind&perline=9&theme=dark" />
+
+### **Backend Cosmos**
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,c&perline=6&theme=dark" />
+
+### **Database Galaxy**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3&theme=dark" />
+
+### **DevOps Dimension**
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,powershell&perline=6&theme=dark" />
+
+### **Design & Tools**
+<img src="https://skillicons.dev/icons?i=figma,vscode,wordpress,postman,canva&perline=5&theme=dark" />
+
 </div>
 
 ---
 
-## 🌐 **Connect Across Dimensions**
+## 📊 **CODE ANALYTICS**
 
 <div align="center">
-  
-  <!-- Animated Social Icons -->
-  <a href="https://www.linkedin.com/in/sushant-mishra-9b6423293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/the_sushant_mishra_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=000000" alt="Instagram" />
-  </a>
-  <a href="mailto:sushantmishra2002@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=000000" alt="Gmail" />
-  </a>
-  
-  <!-- Profile Views with Animation -->
-  <img src="https://komarev.com/ghpvc/?username=Sushantmishra2002&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
-  
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantmishra2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&langs_count=10" width="100%" />
+
+</td>
+<td width="50%">
+
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantmishra2002&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFEAA7&area=true&hide_border=true&custom_title=🔥%20Contribution%20Heatmap" width="100%" />
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 🏆 **Achievement Gallery**
+## 🏆 **ACHIEVEMENT UNLOCKED**
 
 <div align="center">
-  
-  <!-- Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushantmishra2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sushantmishra2002&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=7" />
+
 </div>
 
-<table width="100%">
+---
+
+## 🎯 **PROJECT SHOWCASE**
+
+<div align="center">
+<table>
 <tr>
 <td width="33%" align="center">
 
-### 🎨 **Design Philosophy**
-<img src="https://img.shields.io/badge/UI%2FUX-Creative-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />
+### 🌐 **Web Development**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
 <br/>
-*"Simplicity is the ultimate sophistication"*
+*Building responsive, modern web applications*
 
 </td>
 <td width="33%" align="center">
 
-### 🚀 **Development Approach**
-<img src="https://img.shields.io/badge/Code-Quality-00D9FF?style=for-the-badge&logo=codacy&logoColor=white" />
+### ☁️ **Cloud Solutions** 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000" />
 <br/>
-*"Clean code, scalable solutions"*
+*Scalable cloud architecture & deployment*
 
 </td>
 <td width="33%" align="center">
 
-### 🌱 **Growth Mindset**
-<img src="https://img.shields.io/badge/Learning-Continuous-A855F7?style=for-the-badge&logo=bookstack&logoColor=white" />
+### 🎨 **UI/UX Design**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=000000" />
 <br/>
-*"Never stop learning, never stop growing"*
+*Creating beautiful, user-centric designs*
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 **Analytics Dashboard**
-
-<div align="center">
-  
-  <!-- Contribution 3D -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantmishra2002&bg_color=000000&color=A855F7&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=🚀%20Contribution%20Timeline" />
-  
-  <!-- Detailed Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushantmishra2002&theme=radical" width="100%" />
-  
 </div>
 
 ---
 
-## 💡 **Inspiration Engine**
+## 🌟 **CONNECT WITH ME**
 
 <div align="center">
-  
-  <!-- Random Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic&author=Sushant%20Mishra" />
-  
-  <!-- Animated Dev Card -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushantmishra2002&repo=github-readme-stats&theme=radical&hide_border=true&bg_color=0D1117" />
-  
+
+<!-- Animated Social Links -->
+<a href="https://www.linkedin.com/in/sushant-mishra-9b6423293/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=0077B5" />
+</a>
+<a href="https://instagram.com/the_sushant_mishra_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=E4405F" />
+</a>
+<a href="mailto:sushantmishra.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=D14836" />
+</a>
+<a href="https://portfolio-sushant.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000&labelColor=FFFFFF" />
+</a>
+
 </div>
 
 ---
 
-## 🎯 **Current Mission**
+## 💡 **DAILY INSPIRATION**
 
 <div align="center">
-  
-  ```mermaid
-  flowchart TD
-      A[🎯 Current Focus] --> B[MERN Stack Mastery]
-      A --> C[Open Source Contributions]
-      A --> D[Cloud Architecture]
-      B --> E[Building Scalable Apps]
-      C --> F[Community Impact]
-      D --> G[AWS Expertise]
-      E --> H[🚀 Launch Success]
-      F --> H
-      G --> H
-  ```
-  
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20not%20just%20what%20we%20write%2C%20it's%20what%20we%20create&author=Sushant%20Mishra&border=true" />
+
 </div>
 
 ---
 
-## 🌟 **Let's Build the Future Together**
+## 🎮 **GITHUB ACTIVITY**
 
 <div align="center">
-  
-  <!-- Call to Action -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate%3F;Let's+create+something+amazing!;Open+to+new+opportunities;Always+learning%2C+always+growing" alt="Call to Action" />
-  
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%" />
-  
+
+<!-- Detailed Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushantmishra2002&theme=tokyonight" width="100%" />
+
+<table>
+<tr>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushantmishra2002&theme=tokyonight" />
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushantmishra2002&theme=tokyonight" />
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushantmishra2002&theme=tokyonight" />
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushantmishra2002&theme=tokyonight&utcOffset=8" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 **LET'S BUILD SOMETHING AMAZING TOGETHER!**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=4ECDC4&center=true&vCenter=true&width=600&lines=💻+Always+coding%2C+always+learning;🚀+Ready+for+new+challenges;🌟+Let's+collaborate+and+create;📫+Reach+out+for+exciting+projects!" />
+
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=150&section=footer&animation=fadeIn" />
+
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐ "Code with passion, create with purpose, innovate with intention" ⭐</i>
-  <br/><br/>
-  <b>🚀 Ready to embark on a coding adventure? Let's connect! 🚀</b>
+
+**⭐ FROM [SUSHANT MISHRA](https://github.com/Sushantmishra2002) ⭐**
+
+*"Innovation distinguishes between a leader and a follower"*
+
 </div>
