@@ -165,7 +165,7 @@ console.log(sushant.getCurrentStatus());
 </td>
 <td width="33%" align="center">
 
-### 🎨 **UI/UX Design**
+### 🎨 **Data Analysis**
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=000000" />
 <br/>
 *Creating beautiful, user-centric designs*
