@@ -10,6 +10,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe;%E2%9A%A1+Building+Tomorrow's+Tech+Today;%F0%9F%8C%9F+MERN+Stack+%7C+Cloud+%7C+Innovation" />
 </div>
 
+
+     
 ---
 
 <div align="center">
