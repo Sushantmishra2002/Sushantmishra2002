@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Matrix Background Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=SUSHANT%20MISHRA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=250&section=header&text=SUSHANT%20MISHRA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Architect&descAlignY=51&descAlign=50" />
 
 </div>
 
@@ -9,11 +9,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe;%E2%9A%A1+Building+Tomorrow's+Tech+Today;%F0%9F%8C%9F+MERN+Stack+%7C+Cloud+%7C+Innovation" />
 </div>
-<div>
-     <h6>.</h6>
-</div>
-
-     
 ---
 
 <div align="center">
