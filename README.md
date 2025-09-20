@@ -168,7 +168,7 @@ console.log(sushant.getCurrentStatus());
 ### 🎨 **Data Analysis**
 <img src="https://img.shields.io/badge/powerbi-F24E1E?style=for-the-badge&logo=powerbi&logoColor=000000" />
 <br/>
-*Creating stunning dashboards and matered in data analytics.*
+*Creating stunning dashboards and data visualizations.*
 
 </td>
 </tr>
